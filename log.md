@@ -1,7 +1,20 @@
 # 100 Days Of Code - Log
 
+I've finally decided to commit to commits on Github. I logged my first day on FreeCodeCamp on Jan 1, 2018, however, it is long past due of writing it all down.
+
+Day 1: February 21, 2018
+  - Today's Progress: Completed a portfolio I can be proud of, successfully got my weather app to change backgrounds by using the weather descriptions and a flickr API, got my tail handed to me on CodeClash, and dove into recursion on KhanAcademy
+  (it's winter break :)
+  - Thoughts: I struggle with mathy CS principles that are new and  with getting CSS to do what I want. I think I will do CodingGame CodeClash everyday in order to hone my skillz. I'm so happy I got my weather app finished!! 
+  - Link to work: https://codepen.io/mckelveygreg/
+  
+ Day 2: February 22, 2018
+  - Today's Progress: Actually finished a CodeClash! a simple if/then counter. Learned about merge sorting with Khan, started the wiki viewer project, spent some time on w3schools.com learning about forms, found movethewebforward.com, starting to dive into jquery with learn.jquery.com, finally decided I should write all this down so I forked 100daysofcode, learning how to use github
+  - Thoughts: Khan is killin' me, but it is good to know the upper bounds of my CS limits, apparently w3schools.com sucks and is a scam so need to move on from them, learn.jquery.com looks promising, github is really confusing for the time being. 
+
+<!-- TEMPLATE FORM
 ### Day 0: February 30, 2016 (Example 1)
-//##### (delete me or comment me out)
+##### (delete me or comment me out)
 
 **Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
 
@@ -28,3 +41,4 @@
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+-->
