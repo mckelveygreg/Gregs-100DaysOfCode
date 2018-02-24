@@ -12,6 +12,10 @@ Day 1: February 21, 2018
   - Today's Progress: Actually finished a CodeClash! a simple if/then counter. Learned about merge sorting with Khan, started the wiki viewer project, spent some time on w3schools.com learning about forms, found movethewebforward.com, starting to dive into jquery with learn.jquery.com, finally decided I should write all this down so I forked 100daysofcode, learning how to use github
   - Thoughts: Khan is killin' me, but it is good to know the upper bounds of my CS limits, apparently w3schools.com sucks and is a scam so need to move on from them, learn.jquery.com looks promising, github is really confusing for the time being. 
 
+ Day 3: February 23, 2018
+  - Today's Progress: Worked through Khan's Quicksort Algorithms, lost a CodingClash about summing powers..., tried to get momentum on the FCC wiki viewer project, read ch. 1 and 2 of Clean Code
+  - Thoughts: Khan is still over my head but it feels like good exposure, I need to give the wiki viewer a break till i understand more of what is going on for json/ajax
+
 <!-- TEMPLATE FORM
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
