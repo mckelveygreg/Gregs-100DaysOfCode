@@ -30,6 +30,10 @@ Day 1: February 21, 2018
   - Thoughts: I'm liking working from a real IDE instead of doing everything just through codepen, despite it being so handy. I need to learn how to post my own stuff! 
   - Link to work: https://github.com/mckelveygreg/learning-area/blob/4d25e4d4d6ff8712d13a0db8aa341fe94a2c4dce/html/introduction-to-html/structuring-a-page-of-content-start/index.html
 
+ Day 7: Feb 27, 2018
+  - Today's Progress: Made it through MDN's multimedia and embeding tuts, just need to do the assesement.
+  - Thoughts: I really hope this is time well spent. I'm getting much more fluent with HTML and the web, but I feel like i'm moving too slow... 
+    
 <!-- TEMPLATE FORM
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
