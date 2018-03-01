@@ -33,6 +33,11 @@ Day 1: February 21, 2018
  Day 7: Feb 27, 2018
   - Today's Progress: Made it through MDN's multimedia and embeding tuts, just need to do the assesement.
   - Thoughts: I really hope this is time well spent. I'm getting much more fluent with HTML and the web, but I feel like i'm moving too slow... 
+ 
+ Day 8: Feb 28, 2018
+  - Today's Progress: Did the MDN HTML multimedia and embeding assesement. Also read some clean code in the morning.
+  - Thoughts: Glad I was able to get anything done after today's basketball game vs the students! Also, applied for a Reventure Job in Eugene... had to put my major as Education because Theology wasn't an option... 
+  - Link to work: https://github.com/mckelveygreg/learning-area/blob/master/html/multimedia-and-embedding/mdn-splash-page-start/index.html
     
 <!-- TEMPLATE FORM
 ### Day 0: February 30, 2016 (Example 1)
