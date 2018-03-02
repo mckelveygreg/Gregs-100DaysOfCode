@@ -39,6 +39,9 @@ Day 1: February 21, 2018
   - Thoughts: Glad I was able to get anything done after today's basketball game vs the students! Also, applied for a Reventure Job in Eugene... had to put my major as Education because Theology wasn't an option... 
   - Link to work: https://github.com/mckelveygreg/learning-area/blob/master/html/multimedia-and-embedding/mdn-splash-page-start/index.html
     
+ Day 9: Mar 1, 2018
+  - Today's Progress: Did my morning reading of Clean Code: don't leave useless comments, and make a function for everything! 
+  - Thoughts: Glad I got a little coding in after music tonight. I'm pooped, I need to learn more, and I hope this all works out.... 
 <!-- TEMPLATE FORM
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
