@@ -42,6 +42,11 @@ Day 1: February 21, 2018
  Day 9: Mar 1, 2018
   - Today's Progress: Did my morning reading of Clean Code: don't leave useless comments, and make a function for everything! 
   - Thoughts: Glad I got a little coding in after music tonight. I'm pooped, I need to learn more, and I hope this all works out.... 
+  
+ Day 10: Mar 2, 2018
+  - Today's Progess: Clean Code - Don't write dumb comments. MDN - advanced tables.zzzz 
+  - Thoughts: Wish I had more time to work today... need to finish HTML...
+  
 <!-- TEMPLATE FORM
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
