@@ -47,6 +47,10 @@ Day 1: February 21, 2018
   - Today's Progess: Clean Code - Don't write dumb comments. MDN - advanced tables.zzzz 
   - Thoughts: Wish I had more time to work today... need to finish HTML...
   
+ Day 11: Mar 3, 2018
+  - Today's Progress: Moved on from HTML to CSS.
+  - Thoughts: Tables look like a giant waste of time! There has got to be a better way. The CSS practice seems like a good idea, but really, I'm aiming to be comfortable enough to do the wiki and twitch projects! 
+  
 <!-- TEMPLATE FORM
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
