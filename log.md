@@ -51,6 +51,11 @@ Day 1: February 21, 2018
   - Today's Progress: Moved on from HTML to CSS.
   - Thoughts: Tables look like a giant waste of time! There has got to be a better way. The CSS practice seems like a good idea, but really, I'm aiming to be comfortable enough to do the wiki and twitch projects! 
   
+ Day 12: Mar 4, 2018
+  - Today's Progress: Did a CSS Type Setting tutorial. Concepts: ems, <a> link states, colors, web fonts.
+  - Thoughts: My web design is so ugly... I'm a little ashamed... 
+  - Link to work: https://github.com/mckelveygreg/learning-area/blob/f4f1ec63577ad018472d7336284827e7390e8b59/css/styling-text/typesetting-a-homepage-start/style.css
+  
 <!-- TEMPLATE FORM
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
