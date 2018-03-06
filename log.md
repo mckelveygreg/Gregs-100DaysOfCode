@@ -55,6 +55,10 @@ Day 1: February 21, 2018
   - Today's Progress: Did a CSS Type Setting tutorial. Concepts: ems, <a> link states, colors, web fonts.
   - Thoughts: My web design is so ugly... I'm a little ashamed... 
   - Link to work: https://github.com/mckelveygreg/learning-area/blob/f4f1ec63577ad018472d7336284827e7390e8b59/css/styling-text/typesetting-a-homepage-start/style.css
+ 
+ Day 13: Mar 5, 2018
+  - Today's Progress: Got into code narrative with Clean Code. Started styling CSS Boxes. Tweeted about Hipster Ipsum!
+  - Thoughts: It was monday night, and students were over. Not much time to code.. :(
   
 <!-- TEMPLATE FORM
 ### Day 0: February 30, 2016 (Example 1)
