@@ -59,6 +59,15 @@ Day 1: February 21, 2018
  Day 13: Mar 5, 2018
   - Today's Progress: Got into code narrative with Clean Code. Started styling CSS Boxes. Tweeted about Hipster Ipsum!
   - Thoughts: It was monday night, and students were over. Not much time to code.. :(
+ 
+ Day 14: Mar 6, 2018
+  - Today's Progress: Didn't get much done becaues of Jazz. Review CSS backgrounds
+  - Thoughts: I am starting to make a social media splash :)
+  
+ Day 15: Mar 7, 201
+  - Today's Progress: Finished the MDN CSS Box tuts. Made a cool box and styled some letter head
+  - Thoughts: applied for 2 jobs today, got a call back from a call center and hat is sorta funny :) 
+  
   
 <!-- TEMPLATE FORM
 ### Day 0: February 30, 2016 (Example 1)
