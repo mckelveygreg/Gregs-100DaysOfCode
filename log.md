@@ -64,10 +64,21 @@ Day 1: February 21, 2018
   - Today's Progress: Didn't get much done becaues of Jazz. Review CSS backgrounds
   - Thoughts: I am starting to make a social media splash :)
   
- Day 15: Mar 7, 201
+ Day 15: Mar 7, 2018
   - Today's Progress: Finished the MDN CSS Box tuts. Made a cool box and styled some letter head
   - Thoughts: applied for 2 jobs today, got a call back from a call center and hat is sorta funny :) 
   
+ Day 16: Mar 8, 2018
+  - Today's Progress: Read Ch. 6 in Clean Code: Objects and Data Structures. Also, had "lock-in" at school, so couldn't do anything in the evening. 
+  - Thoughts: It is really hard to balance work with learning... Also, I am through 100pgs of Clean Code! 
+  
+ Day 17: Mar 9, 2018
+  - Today's Progress: Watched some FreeCodeCamp videos about computer basics in order to get ready for CompApps class. Also, read ch. 7 in Clean Code: Error Handling.
+  - Thoughts: Had to spend my evening sermon prepping, but at least I could read. I will probally have to read the whole book again, but at least I'm getting exposure?
+  
+ Day 18: Mar 10, 2018
+  - Today's Progress: Worked on the final section for CSS on MDN: CSS Layout.
+  - Thoughts: Can't wait to finally be geared up and renewed for javascript and document manipulation so I can finish my wiki-viewer and twitch page. I really want to move on with better JS, but I feel my lack of CSS and HTML understanding has been holding me back. 
   
 <!-- TEMPLATE FORM
 ### Day 0: February 30, 2016 (Example 1)
