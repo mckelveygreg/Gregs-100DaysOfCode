@@ -80,6 +80,11 @@ Day 1: February 21, 2018
   - Today's Progress: Worked on the final section for CSS on MDN: CSS Layout.
   - Thoughts: Can't wait to finally be geared up and renewed for javascript and document manipulation so I can finish my wiki-viewer and twitch page. I really want to move on with better JS, but I feel my lack of CSS and HTML understanding has been holding me back. 
   
+ Day 19: Mar 11, 2018
+  - Today's Progress: Finished the MDN CSS Tuts! Made a random number guessing game for MDN's first JS tut
+  - Thoughts: Glad to finally be diving into JS, so I can get closer to feeling better about my front end workings
+  - Link to work: https://github.com/mckelveygreg/learning-area/blob/master/javascript/introduction-to-js-1/first-splash/number-guessing-game-start.html
+  
 <!-- TEMPLATE FORM
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
