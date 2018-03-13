@@ -84,6 +84,10 @@ Day 1: February 21, 2018
   - Today's Progress: Finished the MDN CSS Tuts! Made a random number guessing game for MDN's first JS tut
   - Thoughts: Glad to finally be diving into JS, so I can get closer to feeling better about my front end workings
   - Link to work: https://github.com/mckelveygreg/learning-area/blob/master/javascript/introduction-to-js-1/first-splash/number-guessing-game-start.html
+ 
+ Day 20: Mar 12, 2028
+  - Today's Progress: Did some JS review. 
+  - Thoughts: glad this JS is starting to feel relavent to my FCC challenges.
   
 <!-- TEMPLATE FORM
 ### Day 0: February 30, 2016 (Example 1)
