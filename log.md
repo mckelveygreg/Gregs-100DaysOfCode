@@ -89,6 +89,10 @@ Day 1: February 21, 2018
   - Today's Progress: Did some JS review. 
   - Thoughts: glad this JS is starting to feel relavent to my FCC challenges.
   
+ Day 21: Mar 13, 2018
+  - Today's Progress: Did the beginner MDN JavaScript challenges without cheating!! 
+  - Thoughts: It is late, after community dinner and Jazz Anonymous Practice... I'm pooped. However, completing challenges does give me a lot of energy! 
+  
 <!-- TEMPLATE FORM
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
