@@ -92,6 +92,11 @@ Day 1: February 21, 2018
  Day 21: Mar 13, 2018
   - Today's Progress: Did the beginner MDN JavaScript challenges without cheating!! 
   - Thoughts: It is late, after community dinner and Jazz Anonymous Practice... I'm pooped. However, completing challenges does give me a lot of energy! 
+ 
+ Day 22: Mar 14, 2018
+  - Today's Progress: Happy PI Day. Finished MDN's first JS section complete with a silly (stupid) story generator. 
+  - Thoughts: It is really easy to follow their instructions, but without their help, I slayed all of the replace() functions! 
+  - Link to work: https://github.com/mckelveygreg/learning-area/blob/master/javascript/introduction-to-js-1/assessment-start/index.html
   
 <!-- TEMPLATE FORM
 ### Day 0: February 30, 2016 (Example 1)
