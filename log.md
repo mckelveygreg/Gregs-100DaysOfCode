@@ -98,6 +98,10 @@ Day 1: February 21, 2018
   - Thoughts: It is really easy to follow their instructions, but without their help, I slayed all of the replace() functions! 
   - Link to work: https://github.com/mckelveygreg/learning-area/blob/master/javascript/introduction-to-js-1/assessment-start/index.html
   
+ Day 23: Mar 15, 2018
+  - Today's Progress: Started MDN's JavaScript conditionals section. 
+  - Thoughts: I hope that once I finish MDN, ill be able to make good headway on the FCC projects... 
+  
 <!-- TEMPLATE FORM
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
