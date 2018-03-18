@@ -102,6 +102,16 @@ Day 1: February 21, 2018
   - Today's Progress: Started MDN's JavaScript conditionals section. 
   - Thoughts: I hope that once I finish MDN, ill be able to make good headway on the FCC projects... 
   
+  
+  Day 24: Mar 16, 2018
+   - Today's Progress: MDN's JS is going quick. Finished the JS building blocks section.
+   - Thoughts: I had to cheat on a function return thing. Still not comfortable with that. However, the intro to events was the most helpful thing.
+
+  Day 25: Mar 17, 2018
+   - Today's Progress: Finished JS objects, now just need to do the assessment. Adding more event functions to balls... 
+   - Thoughts: I decided to code one more section before bed instead of another episode of Mr. Robot. I call that a win
+
+
 <!-- TEMPLATE FORM
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
