@@ -110,6 +110,11 @@ Day 1: February 21, 2018
   Day 25: Mar 17, 2018
    - Today's Progress: Finished JS objects, now just need to do the assessment. Adding more event functions to balls... 
    - Thoughts: I decided to code one more section before bed instead of another episode of Mr. Robot. I call that a win
+   
+  Day 26: Mar 18, 2018
+    - Today's Progress: Finished the bouncing balls MDN assessment and looked into APIs.
+    - Thoughts: On the last stretch before I'm back to FCC projects. These MDN tuts are nice and informative, and have great scaffolding, but the FCC tuts will be more helpful for solidifying skills and building my profile.
+    Link to work: https://github.com/mckelveygreg/learning-area/tree/master/javascript/oojs/bouncing-balls
 
 
 <!-- TEMPLATE FORM
