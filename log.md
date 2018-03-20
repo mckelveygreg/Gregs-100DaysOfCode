@@ -115,6 +115,10 @@ Day 1: February 21, 2018
     - Today's Progress: Finished the bouncing balls MDN assessment and looked into APIs.
     - Thoughts: On the last stretch before I'm back to FCC projects. These MDN tuts are nice and informative, and have great scaffolding, but the FCC tuts will be more helpful for solidifying skills and building my profile.
     Link to work: https://github.com/mckelveygreg/learning-area/tree/master/javascript/oojs/bouncing-balls
+    
+  Day 27: March 19, 2018
+   - Today's Progress: Finished MDN DOM manipulation and am getting into ajax calls.
+   - Thoughts: Thought I knew enough to finally work on my wiki page project... nope! 
 
 
 <!-- TEMPLATE FORM
