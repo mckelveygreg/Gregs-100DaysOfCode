@@ -119,6 +119,11 @@ Day 1: February 21, 2018
   Day 27: March 19, 2018
    - Today's Progress: Finished MDN DOM manipulation and am getting into ajax calls.
    - Thoughts: Thought I knew enough to finally work on my wiki page project... nope! 
+   
+  Day 28: March 20, 2018
+   - Today's Progress: Finished the can-store script about fetch() and XHR client side APIs
+   - Thoughts: I feel like I'm becoming more fluent in my debugging skillz, like this would have taken me a week only a month ago!
+   - Link to work: https://github.com/mckelveygreg/learning-area/tree/master/javascript/apis/fetching-data/can-store
 
 
 <!-- TEMPLATE FORM
