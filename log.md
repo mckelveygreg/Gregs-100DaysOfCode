@@ -125,6 +125,9 @@ Day 1: February 21, 2018
    - Thoughts: I feel like I'm becoming more fluent in my debugging skillz, like this would have taken me a week only a month ago!
    - Link to work: https://github.com/mckelveygreg/learning-area/tree/master/javascript/apis/fetching-data/can-store
 
+  Day 29: March 21, 2018
+   - Today's Progress: Dipped into more third party api stuff with Google Maps. Also installed linux on hyper-v, effectively slowing my laptop to a halt... 
+   - Thoughts: I was not as productive as I needed to be. But I am in a place where installing linux is fun, but is bad because it is a distraction! 
 
 <!-- TEMPLATE FORM
 ### Day 0: February 30, 2016 (Example 1)
