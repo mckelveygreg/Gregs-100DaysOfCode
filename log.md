@@ -128,6 +128,19 @@ Day 1: February 21, 2018
   Day 29: March 21, 2018
    - Today's Progress: Dipped into more third party api stuff with Google Maps. Also installed linux on hyper-v, effectively slowing my laptop to a halt... 
    - Thoughts: I was not as productive as I needed to be. But I am in a place where installing linux is fun, but is bad because it is a distraction! 
+   
+  Day 30: March 22, 2018
+   - Today's Progress: Finished MDN's 3rd party API tuts with the NYT archive search
+   - Thoughts: uninstalled VS 2015, took forever... I need a faster computer...
+   
+  Day 31: March 23, 2018
+   - Today's Progress: Guests came today, at least I caught 2 episodes of Crash Course Comp Science! 
+   - Thoughts: I love crash course!! I stole some time during lunch to watch an episode, and have been watching every morning during breakfast :)
+    
+  Day 32: March 24, 2018
+   - Today's Progress: Finally finished the FCC Wiki viewer!
+   - Thoughts: Took forever. Couldn't figure out the best API call to do, though I'm more happy with my method than any of the others I saw. Also, couldn't figure out how to make my JS objects work with flexbox! Was it applied too late in the css?? 
+   - https://codepen.io/mckelveygreg/full/aYyaXq/ 
 
 <!-- TEMPLATE FORM
 ### Day 0: February 30, 2016 (Example 1)
