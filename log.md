@@ -141,6 +141,10 @@ Day 1: February 21, 2018
    - Today's Progress: Finally finished the FCC Wiki viewer!
    - Thoughts: Took forever. Couldn't figure out the best API call to do, though I'm more happy with my method than any of the others I saw. Also, couldn't figure out how to make my JS objects work with flexbox! Was it applied too late in the css?? 
    - https://codepen.io/mckelveygreg/full/aYyaXq/ 
+   
+  Day 33: March 25, 2018
+    - Today's Progress: Worked with JS Canvas Drawing
+    - Thoughts: Canvas is not my cup of tea... for now... 
 
 <!-- TEMPLATE FORM
 ### Day 0: February 30, 2016 (Example 1)
