@@ -145,6 +145,10 @@ Day 1: February 21, 2018
   Day 33: March 25, 2018
     - Today's Progress: Worked with JS Canvas Drawing
     - Thoughts: Canvas is not my cup of tea... for now... 
+    
+   Day 34: March 26, 2018
+    - Today's Progress: Stumbled through MDN's JS Video API tut, and caught 1 1/2 episodes of CrashCourse CompSci
+    - Thoughts: It is so much harder to stay awake only reading without coding. Need to go back and actually code that example so I can try the challenge.
 
 <!-- TEMPLATE FORM
 ### Day 0: February 30, 2016 (Example 1)
