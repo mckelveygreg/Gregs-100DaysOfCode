@@ -143,12 +143,17 @@ Day 1: February 21, 2018
    - https://codepen.io/mckelveygreg/full/aYyaXq/ 
    
   Day 33: March 25, 2018
-    - Today's Progress: Worked with JS Canvas Drawing
-    - Thoughts: Canvas is not my cup of tea... for now... 
+   - Today's Progress: Worked with JS Canvas Drawing
+   - Thoughts: Canvas is not my cup of tea... for now... 
     
-   Day 34: March 26, 2018
-    - Today's Progress: Stumbled through MDN's JS Video API tut, and caught 1 1/2 episodes of CrashCourse CompSci
-    - Thoughts: It is so much harder to stay awake only reading without coding. Need to go back and actually code that example so I can try the challenge.
+  Day 34: March 26, 2018
+   - Today's Progress: Stumbled through MDN's JS Video API tut, and caught 1 1/2 episodes of CrashCourse CompSci
+   - Thoughts: It is so much harder to stay awake only reading without coding. Need to go back and actually code that example so I can try the challenge.
+    
+  Day 35: March 27, 2018
+   - Today's Progress: ha!! Completed the JS videoPlayer scrubber challenge on my own by getting the bounds of the timer box, the location of my click, and setting the time off of that!
+   - Thoughts: Felt great to overcome a little logic challenge. It makes me feel as if I'm starting to speak the language! 
+   - Link to work: https://github.com/mckelveygreg/learning-area/tree/master/javascript/apis/video-audio/start
 
 <!-- TEMPLATE FORM
 ### Day 0: February 30, 2016 (Example 1)
