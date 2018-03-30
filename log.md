@@ -154,6 +154,14 @@ Day 1: February 21, 2018
    - Today's Progress: ha!! Completed the JS videoPlayer scrubber challenge on my own by getting the bounds of the timer box, the location of my click, and setting the time off of that!
    - Thoughts: Felt great to overcome a little logic challenge. It makes me feel as if I'm starting to speak the language! 
    - Link to work: https://github.com/mckelveygreg/learning-area/tree/master/javascript/apis/video-audio/start
+   
+  Day 36: March 28, 2018
+   - Today's Progress: Finished what I want from MDN, the client side storage doesn't seem relevant for the time being... time to move on to finish more FCC projects
+   - Thoughts: MDN tuts are like dessert... time to go back to meat and potatoes.
+   
+  Day 37: March 29, 2018
+   - Today's Progress: Made it half way through the twitch view app! 
+   - Progress is so much faster now that I know both what I want and how to do it!
 
 <!-- TEMPLATE FORM
 ### Day 0: February 30, 2016 (Example 1)
