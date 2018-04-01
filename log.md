@@ -162,6 +162,15 @@ Day 1: February 21, 2018
   Day 37: March 29, 2018
    - Today's Progress: Made it half way through the twitch view app! 
    - Progress is so much faster now that I know both what I want and how to do it!
+   
+  Day 38: March 30, 2018
+   - Today's Progress: Called a fetch API inside of another fetch API! Still need to style twitch viewer
+   - Thoughts: My goal of getting better JavaScript to HTML communication is going well! Now I just need to make more and better CSS decisions... 
+  
+  Day 39: March 31, 2018
+   - Today's Progress: Yea! Finished the twitch viewer. Jumped back into FCC JavaScript challenges
+   - Thoughts: My styling is getting better. FCC challenges are super hard! Had to mildly cheat on most... 
+   - Link to work: https://codepen.io/mckelveygreg/full/qooaZz/
 
 <!-- TEMPLATE FORM
 ### Day 0: February 30, 2016 (Example 1)
