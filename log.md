@@ -171,6 +171,14 @@ Day 1: February 21, 2018
    - Today's Progress: Yea! Finished the twitch viewer. Jumped back into FCC JavaScript challenges
    - Thoughts: My styling is getting better. FCC challenges are super hard! Had to mildly cheat on most... 
    - Link to work: https://codepen.io/mckelveygreg/full/qooaZz/
+   
+  Day 40: April 1, 2018
+   - Today's PRogress: Did some FCC challenges, had to cheat a bit much... Looked into the Planning Center Church directory app for OICC though
+   - Thoughts: JS challenges are still above my skill! The planning center API doesn't look too difficult though!
+   
+  Day 41: April 2, 2018
+   - Today's progress: I opened up a bazillion tabs and can't find out how to send client id and secret in a JSON header!
+   - Thoughts: I twitted out for help today... i hope something comes of it!! I need to get better at asked for help, or at least finding the right spot for it!
 
 <!-- TEMPLATE FORM
 ### Day 0: February 30, 2016 (Example 1)
