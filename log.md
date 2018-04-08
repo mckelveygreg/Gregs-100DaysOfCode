@@ -179,6 +179,11 @@ Day 1: February 21, 2018
   Day 41: April 2, 2018
    - Today's progress: I opened up a bazillion tabs and can't find out how to send client id and secret in a JSON header!
    - Thoughts: I twitted out for help today... i hope something comes of it!! I need to get better at asked for help, or at least finding the right spot for it!
+   
+  Day 42: April 7, 2018
+    - Today's progress: Broke my streak, but came back to move move my profile to github. 
+    - Thoughts: I think I want to move all my projects that direction and start developing there. Seems more legit...
+    link to work: mckelveygreg.github.io
 
 <!-- TEMPLATE FORM
 ### Day 0: February 30, 2016 (Example 1)
