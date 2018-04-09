@@ -184,6 +184,10 @@ Day 1: February 21, 2018
     - Today's progress: Broke my streak, but came back to move move my profile to github. 
     - Thoughts: I think I want to move all my projects that direction and start developing there. Seems more legit...
     link to work: mckelveygreg.github.io
+    
+  Day 43: April 8, 2018
+    - Today's progress: Almost solved the Exact-Change Challenge without cheating...
+    - Thoughts: Learned how to replace a switch statement with an object, it makes way more sense to do it that way! Will implement tomorrow
 
 <!-- TEMPLATE FORM
 ### Day 0: February 30, 2016 (Example 1)
