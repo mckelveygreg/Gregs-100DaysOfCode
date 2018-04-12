@@ -181,23 +181,25 @@ Day 1: February 21, 2018
    - Thoughts: I twitted out for help today... i hope something comes of it!! I need to get better at asked for help, or at least finding the right spot for it!
    
   Day 42: April 7, 2018
-    - Today's progress: Broke my streak, but came back to move move my profile to github. 
-    - Thoughts: I think I want to move all my projects that direction and start developing there. Seems more legit...
+   - Today's progress: Broke my streak, but came back to move move my profile to github. 
+   - Thoughts: I think I want to move all my projects that direction and start developing there. Seems more legit...
     link to work: mckelveygreg.github.io
     
   Day 43: April 8, 2018
-    - Today's progress: Almost solved the Exact-Change Challenge without cheating...
-    - Thoughts: Learned how to replace a switch statement with an object, it makes way more sense to do it that way! Will implement tomorrow
+   - Today's progress: Almost solved the Exact-Change Challenge without cheating...
+   - Thoughts: Learned how to replace a switch statement with an object, it makes way more sense to do it that way! Will implement tomorrow
     
   Day 44: April 9, 2018
-    - Today's progress: I completed the exact-change project, but not on my own... 
-    - Thoughts: Still waiting for the days when I'll be able to complete these things on my own!
+   - Today's progress: I completed the exact-change project, but not on my own... 
+   - Thoughts: Still waiting for the days when I'll be able to complete these things on my own!
     
   Day 45: April 10, 2018
-    - Today's Progress: Cheated on the update Inventory challenge. But at least I'm getting practice with forEach() calls
-    - Thoughts: I was able to spend a lot of time on this one, and almost got it... but their solutions are so good!
+   - Today's Progress: Cheated on the update Inventory challenge. But at least I'm getting practice with forEach() calls
+   - Thoughts: I was able to spend a lot of time on this one, and almost got it... but their solutions are so good!
     
-  
+  Day 46: April 11, 2018
+   - Today's Progress: Did 2 advanced JS challenges today: Heap's algorithm to solve a permutation challenge, and the bob constructor! 
+   - Thoughts: I felt like I actually was able to figure everything out, but didn't have the coding vocabulary to put it down correctly
 
 <!-- TEMPLATE FORM
 ### Day 0: February 30, 2016 (Example 1)
