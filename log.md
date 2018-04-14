@@ -201,6 +201,13 @@ Day 1: February 21, 2018
    - Today's Progress: Did 2 advanced JS challenges today: Heap's algorithm to solve a permutation challenge, and the bob constructor! 
    - Thoughts: I felt like I actually was able to figure everything out, but didn't have the coding vocabulary to put it down correctly
 
+  Day 47: April 12, 2018
+   - Today's Progress: Finished the final advanced JS challenges, and almost by myself!
+   - Thoughts: It was nice to at least get the framework of what the code was supposed to do down. But the solutions helped me piece it all together. 
+  
+  Day 48: April 13, 2018
+   - Today's Progress: Made the button layout with CSS Grid today! But went down a rabbit hole of npm and node.js in order to attempt an install of a math equation parser... 
+
 <!-- TEMPLATE FORM
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
