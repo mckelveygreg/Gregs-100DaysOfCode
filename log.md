@@ -207,7 +207,25 @@ Day 1: February 21, 2018
   
   Day 48: April 13, 2018
    - Today's Progress: Made the button layout with CSS Grid today! But went down a rabbit hole of npm and node.js in order to attempt an install of a math equation parser... 
-
+   
+  Day 49: April 14, 2018
+   - Today's Progress: Finished basic node, and started the server side stuff
+   - Thoughts: I really hope this turns out. I just want to be able to use node modules for my calculator! 
+   
+  Day 50: April 15, 2018
+   - Today's Progress: Almost clicked finish on learnyounnode
+   - Thoughts: It is enjoyable that I am able to figure these out by myself! 1/2 way through!!
+   
+  Day 51: April 16, 2018
+   - Today's Progress: Had all day to finish node servers, and go slowly enough to kinda figure out what is going on! 
+   - Thoughts: I still don't see how I can use this...! Where will it apply?
+   
+  Day 52: April 17, 2018
+   - Today's Progress: Working through Expressjs. I guess it handles some of the work for me? Like a middle-man?
+   - Thoughts: Got to explain what I'm doing to Lacey's grandma... perhaps I don't understand as much as i think!
+   
+  Day 53: April 18, 2018
+   - Today's Progress: 
 <!-- TEMPLATE FORM
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
