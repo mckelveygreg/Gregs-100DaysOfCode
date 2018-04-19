@@ -225,7 +225,11 @@ Day 1: February 21, 2018
    - Thoughts: Got to explain what I'm doing to Lacey's grandma... perhaps I don't understand as much as i think!
    
   Day 53: April 18, 2018
-   - Today's Progress: 
+   - Today's Progress: Finished the calc!
+   - Thoughts: took forever, and the node package helped. 
+   - Link to work: https://mckelveygreg.github.io/JS-Calculator/
+   
+   
 <!-- TEMPLATE FORM
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
