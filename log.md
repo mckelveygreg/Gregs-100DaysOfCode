@@ -229,6 +229,11 @@ Day 1: February 21, 2018
    - Thoughts: took forever, and the node package helped. 
    - Link to work: https://mckelveygreg.github.io/JS-Calculator/
    
+  Day 54: April 19, 2018
+   - Today's Progress: Finished the timer!! 
+   - Thoughts: I'm getting faster at this! Now i just need to learn how to make things prettier... 
+   - Link to work: https://mckelveygreg.github.io/Pomodoro-Timer/
+   
    
 <!-- TEMPLATE FORM
 ### Day 0: February 30, 2016 (Example 1)
