@@ -234,6 +234,23 @@ Day 1: February 21, 2018
    - Thoughts: I'm getting faster at this! Now i just need to learn how to make things prettier... 
    - Link to work: https://mckelveygreg.github.io/Pomodoro-Timer/
    
+  Day 55: April 20, 2018
+   - Today's Progress: Started Tic Tac Toe
+   - Thoughts: found a tutorial to follow!
+   
+  Day 56: April 21, 2018
+   - Today's Progress: Hoped to finish Tic Tac Toe tut, but baby shower took all day :(
+   - Thoughts: I may have bitten off more than I can chew!
+   
+  Day 57: April 22, 2018
+   - Today's Progress: between road tripping and the dog on the ferry, I couldn't quite jam out all of the tic tac toe code...
+   - Thoughts: still don't know if this will even work!
+   
+  Day 58: April 23, 2018
+   - Today's progress: got rest of the code copied/typed, but i have no idea how to initialize anything!! 
+   - Thoughts: I really want to be able to adapt what i'm working with, but this is getting ridiculous!
+   
+   
    
 <!-- TEMPLATE FORM
 ### Day 0: February 30, 2016 (Example 1)
