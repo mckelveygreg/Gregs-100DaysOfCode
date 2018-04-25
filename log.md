@@ -250,7 +250,9 @@ Day 1: February 21, 2018
    - Today's progress: got rest of the code copied/typed, but i have no idea how to initialize anything!! 
    - Thoughts: I really want to be able to adapt what i'm working with, but this is getting ridiculous!
    
-   
+  Day 59: April 24, 2018
+   - Today's progress: I'm getting flashbacks to trying to get my weather api to work... 
+   - Thoughts: This tic tac toe project is starting to feel like a waste of time because I can't figure out mr. man's tut!! 
    
 <!-- TEMPLATE FORM
 ### Day 0: February 30, 2016 (Example 1)
