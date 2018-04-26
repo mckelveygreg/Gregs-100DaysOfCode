@@ -254,6 +254,10 @@ Day 1: February 21, 2018
    - Today's progress: I'm getting flashbacks to trying to get my weather api to work... 
    - Thoughts: This tic tac toe project is starting to feel like a waste of time because I can't figure out mr. man's tut!! 
    
+  Day 60: April 25, 2018
+   - Today's progress: split the whole project up into different classes, like the tut suggested. What it did, is enabling me to clarify my bug! Forgot quotes... 
+   - Thoughts: Made the switch to VS code yesterday, and I feel like I'm getting more comfortable in this world
+   
 <!-- TEMPLATE FORM
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
