@@ -258,6 +258,10 @@ Day 1: February 21, 2018
    - Today's progress: split the whole project up into different classes, like the tut suggested. What it did, is enabling me to clarify my bug! Forgot quotes... 
    - Thoughts: Made the switch to VS code yesterday, and I feel like I'm getting more comfortable in this world
    
+  Day 61: April 26, 2018
+   - Today's Progress: Podcast day! Thanks FreeCodeCamp Pocasts for teaching me about API's and job switching with a full time job
+   - Thoughts: I'm almost to a place at work where I can start coding more...
+   
 <!-- TEMPLATE FORM
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
