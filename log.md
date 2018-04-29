@@ -262,6 +262,14 @@ Day 1: February 21, 2018
    - Today's Progress: Podcast day! Thanks FreeCodeCamp Pocasts for teaching me about API's and job switching with a full time job
    - Thoughts: I'm almost to a place at work where I can start coding more...
    
+  Day 62: April 27, 2018
+   - Today's Progress: Another podcast day... Listened to one about negotiating salary and job offers. Super informative! 
+   - Thoughts: It seems crazy to me that I may be negotiating something like this in the near future. I am intimidated, but hopefully when I'm done teaching, i'll have some time to figure it out!
+   
+  Day 63: April 28, 2018
+   - Today's Progress: Dove back in to the planning center directory project. There is a whole template online, but I've never worked with anything like it before! 
+   - Thoughts: I think it is Angular. I don't like it, it seems clunky and outdated, but I'll at least need to learn it for this project! 
+   
 <!-- TEMPLATE FORM
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
