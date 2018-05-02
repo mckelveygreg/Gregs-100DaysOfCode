@@ -270,6 +270,18 @@ Day 1: February 21, 2018
    - Today's Progress: Dove back in to the planning center directory project. There is a whole template online, but I've never worked with anything like it before! 
    - Thoughts: I think it is Angular. I don't like it, it seems clunky and outdated, but I'll at least need to learn it for this project! 
    
+  Day 64: April 29, 2018
+   - Today's Progress: Dove back into Tic Tac Toe.
+   - Thoughts: this is showing me how important it is to learn how to understand other people's code. Especially if it is way above your head!
+  
+  Day 65: April 30, 2018
+   - Today's Progress: Only had some time for soem solo learn and to chew through more tic tac toe
+   - Thoughts: I hsould have a few good days ahead of me, with less traveling. Spent all day at a work retreat...
+   
+  Day 66: May 1, 2018
+   - Today's Progress: discovered codewars! And it is more around my level. It is nice review and I already leveled up. 
+   - Thoughts: It is has been 2 months now! I'm getting more antsy to complete a real world project...
+   
 <!-- TEMPLATE FORM
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
