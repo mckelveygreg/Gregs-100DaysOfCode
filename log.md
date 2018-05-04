@@ -282,6 +282,15 @@ Day 1: February 21, 2018
    - Today's Progress: discovered codewars! And it is more around my level. It is nice review and I already leveled up. 
    - Thoughts: It is has been 2 months now! I'm getting more antsy to complete a real world project...
    
+  Day 67: May 2, 2018
+    - Today's Progress: Went for a codewars day again. 
+    - Thoughts: It is hard to start and stop a project too many times without getting really frustrated...
+    
+  Day 68: May 3, 2018
+    - Today's Progress: I'm almost Level 6 in CodeWars, still not enough time to sit down for real projects
+    - Thoughts: Lacey talked to me tonight. She is scared about how little time we spend together.  I need to figure out a better balance and more intentional time! 
+    
+   
 <!-- TEMPLATE FORM
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
