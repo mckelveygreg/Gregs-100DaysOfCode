@@ -294,6 +294,11 @@ Day 1: February 21, 2018
    - Today's Progress: My AI makes moves for tictactoe! But it is unhinged and unshackled, so it cheats like a mother... 
    - Thoughts: I need to figure out how to better handle my event handlers! 
    
+  Day 70: May 5, 2018
+   - Today's Progress: I finally have a mildly functioning TicTacToe that I will be walking away from... 
+   - Thoughts: It sucks not to finish something all the way, but I feel like I've learned all the lessons I can
+   - Link to work: https://mckelveygreg.github.io/TicTackToe/
+   
 <!-- TEMPLATE FORM
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
