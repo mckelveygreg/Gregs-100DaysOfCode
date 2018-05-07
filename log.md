@@ -299,6 +299,10 @@ Day 1: February 21, 2018
    - Thoughts: It sucks not to finish something all the way, but I feel like I've learned all the lessons I can
    - Link to work: https://mckelveygreg.github.io/TicTackToe/
    
+  Day 71: May 6, 2018
+   - Today's Progress: Started the Simon Game. First I went through a bunch of Khan trying to figure out how to draw circles/arcs. Not that hard with CSS actually. 
+   - Thoughts: My design skill are still so clunky, slow, and painstaking... So much to remember, but I must get better and problem solving these things! 
+   
 <!-- TEMPLATE FORM
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
