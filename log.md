@@ -303,6 +303,18 @@ Day 1: February 21, 2018
    - Today's Progress: Started the Simon Game. First I went through a bunch of Khan trying to figure out how to draw circles/arcs. Not that hard with CSS actually. 
    - Thoughts: My design skill are still so clunky, slow, and painstaking... So much to remember, but I must get better and problem solving these things! 
    
+  Day 72: May 7, 2018
+   - Today's progress: Followed up on Elliot's text about triplebyte and stayed up way to late to do the multi-choice quiz section!
+   - Thoughts: well i passed it... but we'll see how tomorrow's programming challenge goes..
+   
+  Day 73: May 8, 2018
+   - Today's Progress: did the triplebyte programming challenges... 
+   - Thoughts: That was a bit over my head today. I almost finished both, but I am still so young in the industry!
+   
+  Day 74: May 9, 2018
+   - Today's Progress: Got a response back from triplebyte... Whoops.. In other news, I got my simon settings lined up, and the button sound attached!
+   - Thoughts: I made objects, and did git commits for each of the change stages i did!! I'm feeling proffessional today :)
+   
 <!-- TEMPLATE FORM
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
