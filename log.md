@@ -315,6 +315,16 @@ Day 1: February 21, 2018
    - Today's Progress: Got a response back from triplebyte... Whoops.. In other news, I got my simon settings lined up, and the button sound attached!
    - Thoughts: I made objects, and did git commits for each of the change stages i did!! I'm feeling proffessional today :)
    
+  Day 75: May 10, 2018
+   - Today's Progress: Squeezed in a codewars challenge before bed...
+   - Thoughts: I'm glad I got at least a little done... 
+  
+  Day 76: May 13, 2018
+   - Today's Progress: Mother's Day weekend, in-laws, and preaching made me skip 2 days, but I got some headway on Simon
+   - Thoughts: Software planning sucks... by sucks, i mean difficult. There must be a better way?
+   
+   
+   
 <!-- TEMPLATE FORM
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
