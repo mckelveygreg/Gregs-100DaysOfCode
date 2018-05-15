@@ -323,6 +323,10 @@ Day 1: February 21, 2018
    - Today's Progress: Mother's Day weekend, in-laws, and preaching made me skip 2 days, but I got some headway on Simon
    - Thoughts: Software planning sucks... by sucks, i mean difficult. There must be a better way?
    
+  Day 77: May 14, 2018
+   - Today's Progress: Starting experimenting with setting up a dev environment for Code.org. Also, figured out how to make my JS light up and play the sounds for the simon game
+   - Thoughts: I conquered a problem with intervals and got some headway on Simon!! 
+   
    
    
 <!-- TEMPLATE FORM
