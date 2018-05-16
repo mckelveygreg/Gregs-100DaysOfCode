@@ -327,6 +327,10 @@ Day 1: February 21, 2018
    - Today's Progress: Starting experimenting with setting up a dev environment for Code.org. Also, figured out how to make my JS light up and play the sounds for the simon game
    - Thoughts: I conquered a problem with intervals and got some headway on Simon!! 
    
+  Day 78: May 15, 2018
+   - Today's Progress: The game actually functions. starts, keeps track of things, stops, restarts. It is just super ugly and not responsive... 
+   - Thoughts: It is a great feeling to have developed this mostly from the ground up! 
+   
    
    
 <!-- TEMPLATE FORM
