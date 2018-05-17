@@ -331,6 +331,12 @@ Day 1: February 21, 2018
    - Today's Progress: The game actually functions. starts, keeps track of things, stops, restarts. It is just super ugly and not responsive... 
    - Thoughts: It is a great feeling to have developed this mostly from the ground up! 
    
+  Day 79: May 16, 2018
+   - Today's Progress: Finished the Simon game at work. Styled, complete with favicons!! 
+   - Thoughts: I'm so ready for some backend projects. Also, I'm getting more used to setting up dev environments.
+   - Link to work: https://mckelveygreg.github.io/SimonGame/
+   
+   
    
    
 <!-- TEMPLATE FORM
