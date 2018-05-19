@@ -336,7 +336,13 @@ Day 1: February 21, 2018
    - Thoughts: I'm so ready for some backend projects. Also, I'm getting more used to setting up dev environments.
    - Link to work: https://mckelveygreg.github.io/SimonGame/
    
+  Day 80: May 17, 2018
+   - Today's Progress: Collecting React Tutorials
+   - Thoughts: Everyone has their own React paths... this is going to be tough
    
+  Day 81: May 18, 2018
+   - Today's Progress: Tried setting up a local React Dev environment...
+   - Thoughts: Can't figure out how to lint react... and my dev envirnoments are panning out. Gotta keep reading things I don't understand
    
    
 <!-- TEMPLATE FORM
