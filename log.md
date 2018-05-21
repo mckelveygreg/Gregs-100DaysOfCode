@@ -344,6 +344,14 @@ Day 1: February 21, 2018
    - Today's Progress: Tried setting up a local React Dev environment...
    - Thoughts: Can't figure out how to lint react... and my dev envirnoments are panning out. Gotta keep reading things I don't understand
    
+  Day 82: May 19, 2018
+   - Today's Progress: React tutorial hunting and dependancy frustrations... 
+   - Thoughts: How in the world am I supposed to learn React if I can't set up a dev environment!?!
+   
+  Day 83: May 20, 2018
+   - Today's Progress: Finally got some React code to render thanks to Scrimba!
+   - Thoughts: Having a hard time finding good resources... 
+   
    
 <!-- TEMPLATE FORM
 ### Day 0: February 30, 2016 (Example 1)
