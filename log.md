@@ -352,6 +352,9 @@ Day 1: February 21, 2018
    - Today's Progress: Finally got some React code to render thanks to Scrimba!
    - Thoughts: Having a hard time finding good resources... 
    
+  Day 84: May 21, 2018
+   - Today's Progress: Finally picked a place to follow tutorials. www.kirupa.com/react
+   - Thoughts: I hope this place leads me where I want to go...
    
 <!-- TEMPLATE FORM
 ### Day 0: February 30, 2016 (Example 1)
