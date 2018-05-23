@@ -356,6 +356,11 @@ Day 1: February 21, 2018
    - Today's Progress: Finally picked a place to follow tutorials. www.kirupa.com/react
    - Thoughts: I hope this place leads me where I want to go...
    
+  Day 85: May 22, 2018
+   - Today's Progress: Leanred about React States with kirupa.com
+   -Thoughts: Kirupa tweeted me back last night! And I'm starting to get more comfortable writing React code
+   
+   
 <!-- TEMPLATE FORM
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
