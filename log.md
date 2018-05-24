@@ -360,6 +360,10 @@ Day 1: February 21, 2018
    - Today's Progress: Leanred about React States with kirupa.com
    -Thoughts: Kirupa tweeted me back last night! And I'm starting to get more comfortable writing React code
    
+  Day 86: May 23, 2018
+   - Today's Progress: I full intend to finish everything Kirupa has! Went over Data to UI stuff today
+   - Thoughts: Still haven't been convinced of React yet, but half the internet seems to think it is a good idea, so we'll see... 
+   
    
 <!-- TEMPLATE FORM
 ### Day 0: February 30, 2016 (Example 1)
