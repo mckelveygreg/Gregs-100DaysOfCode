@@ -364,6 +364,10 @@ Day 1: February 21, 2018
    - Today's Progress: I full intend to finish everything Kirupa has! Went over Data to UI stuff today
    - Thoughts: Still haven't been convinced of React yet, but half the internet seems to think it is a good idea, so we'll see... 
    
+  Day 87: May 24, 2018
+   - Today's Progress: Made it 1/2 way through Accessing the DOM in React from kirupa
+   - Thoughts: Well, at least I got some coding in. Everyday is what matters! 
+   
    
 <!-- TEMPLATE FORM
 ### Day 0: February 30, 2016 (Example 1)
