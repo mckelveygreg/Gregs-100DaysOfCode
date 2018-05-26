@@ -368,6 +368,9 @@ Day 1: February 21, 2018
    - Today's Progress: Made it 1/2 way through Accessing the DOM in React from kirupa
    - Thoughts: Well, at least I got some coding in. Everyday is what matters! 
    
+  Day 88: May 25, 2018
+   - Today's Progress: Finished Kirupa's basic React Tuts
+   - Thoughts: Now I know the bones for a react app, but no idea how to make anything of my own... but at least I set up a dev environment! 
    
 <!-- TEMPLATE FORM
 ### Day 0: February 30, 2016 (Example 1)
