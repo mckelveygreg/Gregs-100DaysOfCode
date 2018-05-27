@@ -371,6 +371,10 @@ Day 1: February 21, 2018
   Day 88: May 25, 2018
    - Today's Progress: Finished Kirupa's basic React Tuts
    - Thoughts: Now I know the bones for a react app, but no idea how to make anything of my own... but at least I set up a dev environment! 
+  
+  Day 89: May 26, 2018
+   - Today's Progress: Did Kirupa's react todo list tut
+   - Thoughts: it was nice to actually make something in a sort of official way!
    
 <!-- TEMPLATE FORM
 ### Day 0: February 30, 2016 (Example 1)
