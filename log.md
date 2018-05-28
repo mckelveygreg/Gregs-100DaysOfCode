@@ -376,6 +376,11 @@ Day 1: February 21, 2018
    - Today's Progress: Did Kirupa's react todo list tut
    - Thoughts: it was nice to actually make something in a sort of official way!
    
+  Day 90: May 27, 2018
+   - Today's Progress: Did the IP address app, attempted to put a build of it on github... 
+   - Thoughts: Can't get the build of the site to display on github pages! but I am getting more comfortable with React. and I still need to figure out what makes it better than just doing this with vanilla JS... 
+   - https://github.com/mckelveygreg/ipaddress
+   
 <!-- TEMPLATE FORM
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
