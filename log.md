@@ -381,6 +381,11 @@ Day 1: February 21, 2018
    - Thoughts: Can't get the build of the site to display on github pages! but I am getting more comfortable with React. and I still need to figure out what makes it better than just doing this with vanilla JS... 
    - https://github.com/mckelveygreg/ipaddress
    
+  Day 91: May 28, 2018
+   - Today's Progress: Did the Single Page App from kirupa.com/react, and learned about npm gh-pages so now i can publish my react apps quickly to github! 
+   - Thoughts: I still have yet to build my own thing with react, but i'm getting more comfortable using their tools
+   - Link to work: https://mckelveygreg.github.io/react_spa/#/
+   
 <!-- TEMPLATE FORM
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
