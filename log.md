@@ -386,6 +386,11 @@ Day 1: February 21, 2018
    - Thoughts: I still have yet to build my own thing with react, but i'm getting more comfortable using their tools
    - Link to work: https://mckelveygreg.github.io/react_spa/#/
    
+  Day 92: Mary 29, 2018
+   - Today's Progress: Finished another kirupa tut - sliding menus
+   - Thoughts: This still feels like training wheels
+   - Link to work: https://mckelveygreg.github.io/slidingmenu
+   
 <!-- TEMPLATE FORM
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
