@@ -395,6 +395,14 @@ Day 1: February 21, 2018
    - Today's Progress: More conceptual today, made sliding menus render less often and learned about Redux
    - Thoughts: I haven't been in this game long enough to understand the benefits of redux yet... 
    
+  Day 94: June 1, 2018
+   - Today's Progress: skipped yesterday... but I finished all of Kirupa's react tuts!! 
+   - Thoughts: My github profile is getting a bit outta control... I feel like i should consolidate everything
+   
+  Day 95: June 2, 2018
+   - Today's Progress: So FreeCodeCamp updated everything and got a ton of new tuts. I did 87 challenges... 
+   - Thoughts: So now they have react tuts... and some of my old challenges are legacy... oh well. 
+   
 <!-- TEMPLATE FORM
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
