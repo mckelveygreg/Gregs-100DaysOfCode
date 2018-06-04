@@ -403,6 +403,10 @@ Day 1: February 21, 2018
    - Today's Progress: So FreeCodeCamp updated everything and got a ton of new tuts. I did 87 challenges... 
    - Thoughts: So now they have react tuts... and some of my old challenges are legacy... oh well. 
    
+  Day 96: June 3, 2018
+   - Today's Progress: Finished all of the responive we design tuts on FCC. now time to dive into some old projects to update them
+   - Thoughts: I'm both nervous and excited to polish up some old projects! However, I need to consolidate all of my projects into one repo
+   
 <!-- TEMPLATE FORM
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
