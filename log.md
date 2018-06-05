@@ -407,6 +407,11 @@ Day 1: February 21, 2018
    - Today's Progress: Finished all of the responive we design tuts on FCC. now time to dive into some old projects to update them
    - Thoughts: I'm both nervous and excited to polish up some old projects! However, I need to consolidate all of my projects into one repo
    
+  Day 97: June 4, 2018
+   - Today's Progress: Re-did my tribute page from old, but with no frameworks!
+   - Thoughts: Besides github pages acting all crazy, it came together rather smoothly. My CSS knowledge is still a little trial and error though...
+   - link to work: https://mckelveygreg.github.io/TributePage/
+   
 <!-- TEMPLATE FORM
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
