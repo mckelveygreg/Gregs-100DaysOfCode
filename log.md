@@ -412,6 +412,10 @@ Day 1: February 21, 2018
    - Thoughts: Besides github pages acting all crazy, it came together rather smoothly. My CSS knowledge is still a little trial and error though...
    - link to work: https://mckelveygreg.github.io/TributePage/
    
+  Day 98: June 5, 2018
+   - Today's Progress: My next challenge is a survey form, so here i came MDN! Form tutorials! Also, learned some backend principles
+   - Thoughts: I cheated and worked at school today... Too excited!
+   
 <!-- TEMPLATE FORM
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
