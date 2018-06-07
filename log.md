@@ -416,6 +416,10 @@ Day 1: February 21, 2018
    - Today's Progress: My next challenge is a survey form, so here i came MDN! Form tutorials! Also, learned some backend principles
    - Thoughts: I cheated and worked at school today... Too excited!
    
+  Day 99: June 6, 2018
+   - Today's Progress: Made a functional lunch survey, still need to do some CSS
+   - Thoughts: Found a great solution for limmiting checkboxes by googling today, day in the life i guess?
+   
 <!-- TEMPLATE FORM
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
